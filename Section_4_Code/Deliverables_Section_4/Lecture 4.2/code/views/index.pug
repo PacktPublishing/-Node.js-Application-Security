@@ -1,0 +1,12 @@
+html
+  head
+    title='Express App'
+    link(href='/public/css/style.css' rel='stylesheet')
+    script(src='https://code.jquery.com/jquery-3.3.1.min.js')
+    script(src='/public/js/script.js')
+  body
+    div.container
+      form(method='post' action='/process')
+        input(type='text' name='formInput' class='inputBox' autocomplete='off')
+        p(id='characterCount') 0 character(s)
+        button(type='submit' class='submitBtn') Send!
