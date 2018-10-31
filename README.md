@@ -34,15 +34,15 @@ This course is meant for Node.js developers tasked with creating high-performanc
 The intended audience is expected to have a thorough understanding of Node.js and the ecosystem, a good command of JavaScript, and intermediate working skills on Linux/MacOS.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Operating system: Linux/MacOS (Recommended)
-Browser: Google Chrome
-VSCode (Recommended)  - or Sublime Text or Atom IDE, Latest Version
-Node.js 8.11.3 LTS or higher Installed -https://nodejs.org/en/
+Operating system: Linux/MacOS (Recommended)<br/>
+Browser: Google Chrome<br/>
+VSCode (Recommended)  - or Sublime Text or Atom IDE, Latest Version<br/>
+Node.js 8.11.3 LTS or higher Installed -https://nodejs.org/en/<br/>
 
-For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
-OS: Linux, MacOS
-Processor: 3.2Ghz
-Memory: 16Gb
+For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:<br/>
+OS: Linux, MacOS<br/>
+Processor: 3.2Ghz<br/>
+Memory: 16Gb<br/>
 Storage: 500Gb<br/>
 
 ## Related Products
