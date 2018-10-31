@@ -1,5 +1,5 @@
 # Node.js Application Security
-This is the code repository for [Node.js Application Security](https://www.packtpub.com/web-development/nodejs-application-security-video, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Node.js Application Security]](https://www.packtpub.com/web-development/nodejs-application-security-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 As a Node.js developer, you’re entrusted to secure and safeguard your production apps against vulnerabilities and attacks that have the potential to bring down a 
 business and cause irreparable damage. Businesses built in the cloud-native era should always strive to stay one step ahead of attackers who’re always on the lookout to 
