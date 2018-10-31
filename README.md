@@ -34,7 +34,6 @@ This course is meant for Node.js developers tasked with creating high-performanc
 The intended audience is expected to have a thorough understanding of Node.js and the ecosystem, a good command of JavaScript, and intermediate working skills on Linux/MacOS.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-This course has the following software requirements:
 Operating system: Linux/MacOS (Recommended)
 Browser: Google Chrome
 VSCode (Recommended)  - or Sublime Text or Atom IDE, Latest Version
